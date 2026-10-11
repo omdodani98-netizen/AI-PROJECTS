@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Research Assistant
 
 An AI-powered command-line research assistant.
@@ -92,3 +93,7 @@ research_output.json
 
 Never upload `.env` to GitHub.
 Use `.env.example` for sharing configuration format.
+=======
+# AI-PROJECTS
+A modular Python framework for training, evaluating, and deploying machine learning models for [insert task, e.g., image classification / text analysis
+>>>>>>> 4f6edff6d8447600be5241792808f7f62cd89ce5
